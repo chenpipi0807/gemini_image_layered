@@ -6,6 +6,12 @@
 
 PIP-Image-Layered 是一个创新的图像分层工具，使用 Google Gemini 多模态 AI 模型实现智能图像分解。与传统的分割方法不同，本工具采用**生成式**方法，让 AI 重新绘制每个图层元素，从而获得更干净、更完整的分层效果。
 
+
+<img width="1328" height="1328" alt="test" src="https://github.com/user-attachments/assets/4e8578fa-ca6a-4d89-909d-fd04ee66be96" />
+
+<img width="2375" height="330" alt="image" src="https://github.com/user-attachments/assets/2c8c6ce6-6729-4f2d-8f03-b8780410c883" />
+
+
 ### 核心特性
 
 - 🎨 **生成式分层**：不是简单切图，而是让 AI 重新绘制每个元素
@@ -215,4 +221,5 @@ MIT License
 ---
 
 **注意**：本工具需要 Gemini API 访问权限。生成质量取决于 API 的响应和网络状况。
+
 
