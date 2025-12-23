@@ -1,4 +1,4 @@
-# PIP-Image-Layered
+# gemini-Image-Layered
 
 AI-powered image layer decomposition using Google Gemini - Generative approach
 
@@ -109,3 +109,4 @@ MIT License
 - Google Gemini API
 - rembg
 - InSPyReNet
+
