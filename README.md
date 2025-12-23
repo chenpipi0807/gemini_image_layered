@@ -8,6 +8,8 @@ AI-powered image layer decomposition using Google Gemini - Generative approach
 
 PIP-Image-Layered is an innovative image layering tool that uses Google Gemini's multimodal AI to intelligently decompose images. Unlike traditional segmentation methods, this tool uses a **generative** approach where AI redraws each layer element for cleaner, more complete results.
 
+<img width="1328" height="1328" alt="test" src="https://github.com/user-attachments/assets/553d46c8-8db9-4e7f-ad80-d571018abc9c" />
+
 <img width="2375" height="330" alt="image" src="https://github.com/user-attachments/assets/c2bf806c-1281-4966-b6a5-2ee7421cb58e" />
 
 
@@ -112,5 +114,6 @@ MIT License
 - Google Gemini API
 - rembg
 - InSPyReNet
+
 
 
