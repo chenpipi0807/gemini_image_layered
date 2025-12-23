@@ -1,0 +1,57 @@
+{
+  "canvas_size": [
+    1328,
+    1328
+  ],
+  "layers": [
+    {
+      "index": 0,
+      "name": "黑色girl文字",
+      "type": "text",
+      "depth": 2,
+      "file": "output_v8\\test\\layer_00_黑色girl文字.png"
+    },
+    {
+      "index": 1,
+      "name": "地面阴影与速度线",
+      "type": "background",
+      "depth": 1,
+      "file": "output_v8\\test\\layer_01_地面阴影与速度线.png"
+    },
+    {
+      "index": 2,
+      "name": "黄色Skateboarding文字",
+      "type": "text",
+      "depth": 3,
+      "file": "output_v8\\test\\layer_02_黄色Skateboarding文字.png"
+    },
+    {
+      "index": 3,
+      "name": "纯色背景",
+      "type": "background",
+      "depth": 0,
+      "file": "output_v8\\test\\layer_03_纯色背景.png"
+    },
+    {
+      "index": 4,
+      "name": "滑板女孩",
+      "type": "person",
+      "depth": 7,
+      "file": "output_v8\\test\\layer_04_滑板女孩.png"
+    },
+    {
+      "index": 5,
+      "name": "粉色Girls文字",
+      "type": "text",
+      "depth": 4,
+      "file": "output_v8\\test\\layer_05_粉色Girls文字.png"
+    },
+    {
+      "index": 6,
+      "name": "绿色滑板",
+      "type": "object",
+      "depth": 6,
+      "file": "output_v8\\test\\layer_06_绿色滑板.png"
+    }
+  ]
+}

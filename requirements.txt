@@ -1,0 +1,14 @@
+# 核心依赖
+pillow>=10.0.0
+numpy<2
+python-dotenv>=1.0.0
+requests>=2.31.0
+scipy>=1.11.0
+
+# 可选依赖 - 高级抠图方法
+# 如果使用 -m rembg，取消下面注释
+# rembg>=2.0.50
+
+# 如果使用 -m inspyrenet，取消下面注释
+# torch>=2.0.0
+# torchvision>=0.15.0
