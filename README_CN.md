@@ -1,4 +1,4 @@
-# PIP-Image-Layered
+# gemini-Image-Layered
 
 基于 Gemini 的智能图像分层工具 - 生成式图层分解
 
@@ -215,3 +215,4 @@ MIT License
 ---
 
 **注意**：本工具需要 Gemini API 访问权限。生成质量取决于 API 的响应和网络状况。
+
